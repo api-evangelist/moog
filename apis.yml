@@ -20,6 +20,7 @@ tags:
   - Medical
   - Motion Control
   - Precision Motion
+  - Fortune 1000
 apis:
   - aid: moog:moog-corporate
     name: Moog Corporate

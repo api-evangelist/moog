@@ -45,6 +45,8 @@ apis:
       - type: Contact
         url: https://www.moog.com/contact.html
 common:
+  - type: DomainSecurity
+    url: security/moog-domain-security.yml
   - type: Website
     url: https://www.moog.com
   - type: About

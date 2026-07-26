@@ -1,4 +1,16 @@
 aid: moog
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.19'
 name: Moog
 description: >-
@@ -9,10 +21,10 @@ description: >-
   systems. Moog does not currently publish a public developer API or developer
   portal.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/moog.png
 url: https://www.moog.com
 created: '2026-04-28'
-modified: '2026-04-28'
+modified: '2026-07-25'
 tags:
   - Aerospace
   - Defense
@@ -21,29 +33,7 @@ tags:
   - Motion Control
   - Precision Motion
   - Fortune 1000
-apis:
-  - aid: moog:moog-corporate
-    name: Moog Corporate
-    description: >-
-      Moog Inc. corporate site covering products and solutions across
-      actuation, motion systems, motors, propulsion, valves, aerospace
-      components, and defense systems. No public developer API is currently
-      published; integrations are typically engineered through direct
-      engagement with Moog product teams.
-    humanURL: https://www.moog.com
-    tags:
-      - Aerospace
-      - Defense
-      - Industrial
-      - Medical
-      - Motion Control
-    properties:
-      - type: Website
-        url: https://www.moog.com
-      - type: About
-        url: https://www.moog.com/company.html
-      - type: Contact
-        url: https://www.moog.com/contact.html
+apis: []
 common:
   - type: DomainSecurity
     url: security/moog-domain-security.yml

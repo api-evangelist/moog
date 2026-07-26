@@ -18,10 +18,6 @@ Moog Inc. is a worldwide designer, manufacturer, and integrator of precision mot
 
 ## APIs
 
-### Moog Corporate
-Moog Inc. corporate site covering products and solutions across actuation, motion systems, motors, propulsion, valves, aerospace components, and defense systems. No public developer API is currently published; integrations are typically engineered through direct engagement with Moog product teams.
-
-**Human URL:** [https://www.moog.com](https://www.moog.com)
 
 #### Tags:
 

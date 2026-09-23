@@ -1,7 +1,9 @@
 ---
 title: Moog and Unibap AB to collaborate on Artificial ...
 url: https://www.moog.com/news/operating-group-news/2019/Moog-UnibapAB-Collaboration.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Moog" press release artificial intelligence'
 position: 2
 source: serpapi-google

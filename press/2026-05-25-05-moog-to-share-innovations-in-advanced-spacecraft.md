@@ -1,7 +1,9 @@
 ---
 title: Moog to Share Innovations in Advanced Spacecraft ...
 url: https://www.moog.com/news/operating-group-news/2025/moog-advanced-space-computing-at-satellite-2025-conference.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Moog" press release artificial intelligence'
 position: 5
 source: serpapi-google

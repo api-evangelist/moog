@@ -1,4 +1,4 @@
-# Moog (moog)
+# Moog
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,43 +66,95 @@
 
 Moog Inc. is a worldwide designer, manufacturer, and integrator of precision motion and fluid control products and solutions for aerospace, defense, industrial, and medical applications. Product divisions include actuation, motion systems, motors, propulsion, valves, aerospace components, and defense systems. Moog does not currently publish a public developer API or developer portal.
 
-**URL:** [Visit Website](https://www.moog.com)
+**Areas:** Aerospace · Defense · Industrial · Medical · Motion Control · Precision Motion · Fortune 1000
 
-## Scope
+## Moog on APIs.io
 
-- **Type:** Index
+Everything profiled for Moog is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/moog/](https://apis.io/providers/moog/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Aerospace, Defense, Industrial, Medical, Motion Control, Precision Motion
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-04-28
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Moog Domain Security](https://apis.io/security/moog/moog-domain-security/)
 
+#### Plans and pricing (1)
 
-#### Tags:
+Published plans, tiers and prices.
 
- - Aerospace, Defense, Industrial, Medical, Motion Control
+- [Moog Plans Pricing](https://apis.io/plans/moog/moog-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
+
+Published request limits.
+
+- [Moog Rate Limits](https://apis.io/rate-limits/moog/moog-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Moog Finops](https://apis.io/finops/moog/moog-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.moog.com)
-- [About](https://www.moog.com/company.html)
-- [Contact](https://www.moog.com/contact.html)
 
-## Common Properties
+## API Evangelist rating
 
-- [Website](https://www.moog.com)
-- [About](https://www.moog.com/company.html)
-- [Contact](https://www.moog.com/contact.html)
-- [LinkedIn](https://www.linkedin.com/company/moog-inc-)
+**Kin Score 6.2** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
 
-**FN:** Kin Lane
+**Agent readiness 0.6** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.7** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/moog/](https://apis.io/providers/moog/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Moog: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/moog/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
